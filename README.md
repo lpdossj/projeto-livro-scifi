@@ -22,3 +22,5 @@ git push origin master
 
 - Podemos padronizar também para que nos próximos push as alterações sejam enviadas para origin 
 git push -u origin master
+
+Acredito que estou indo bem.
