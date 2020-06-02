@@ -1,0 +1,3 @@
+Capítulo 1 
+
+A Batalha de Stalingrado (português brasileiro) ou Batalha de Estalinegrado (português europeu) foi um grande combate travado entre a Wehrmacht (o exército da Alemanha Nazista) e seus aliados do Eixo contra as tropas da União Soviética pela posse da cidade de Stalingrado (atual Volgogrado), às margens do rio Volga, entre 17 de julho de 1942 e 2 de fevereiro de 1943, durante a Segunda Guerra Mundial.[3] A batalha foi um dos pontos de virada da guerra na Frente Oriental, marcando o limite da expansão alemã no território soviético, a partir de onde o Exército Vermelho empurraria as forças alemãs até Berlim.
